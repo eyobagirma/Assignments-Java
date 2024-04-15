@@ -10,7 +10,7 @@ public class MatrixAddition {
 
 		for (int i = 0; i < A.length; i++) {
 			for (int j = 0; j < A[0].length; j++) {
-				System.out.print("[" + A[i][j] + B[i][j] + " ");
+				System.out.print(A[i][j] + B[i][j] + " ");
 			}
 			System.out.println();
 			}
